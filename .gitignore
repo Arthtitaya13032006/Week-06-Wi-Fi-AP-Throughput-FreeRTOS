@@ -1,6 +1,44 @@
 .obsidian/**
-**/build/**
-.cache/**
-build/**
-build-v6/**
-.esp/**
+
+# ESP-IDF Build
+build/
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+compile_commands.json
+Makefile
+
+# Ninja
+.ninja_deps
+.ninja_log
+
+# SDK Configuration (หากไม่ต้องการเก็บค่าการตั้งค่า)
+sdkconfig
+sdkconfig.old
+sdkconfig.defaults.old
+
+# Python
+__pycache__/
+*.pyc
+
+# Logs
+*.log
+
+# VS Code
+.vscode/
+
+# CLion
+.idea/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Temporary files
+*.tmp
+*.temp
