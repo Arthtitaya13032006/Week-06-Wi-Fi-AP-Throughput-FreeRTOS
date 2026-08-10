@@ -12,12 +12,17 @@
 ### 7.2 ทดสอบ JSON API (`/api/data`)
 
 บันทึก Raw JSON Response จาก Browser:
-
-```json
+```
+{"temperature":28.00,"humidity":55.00,"light_lux":637,"timestamp_ms":205770}
 
 ```
+## รูปภาพ
+
 
 ---
+<img width="283" height="610" alt="image" src="https://github.com/user-attachments/assets/8a573581-336d-4c20-81d8-1d14c32de294" />
+<img width="275" height="606" alt="image" src="https://github.com/user-attachments/assets/f30cbf91-ddc3-4877-b433-7e4b7308e269" />
+
 
 ## 8. คำถามท้ายการทดลอง (Post-Lab Questions)
 
