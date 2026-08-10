@@ -16,6 +16,10 @@
 {"temperature":29.10,"humidity":54.90,"light_lux":560,"timestamp_ms":885360}
 ```
 
+### รูปภาพผลงาน
+![alt text](/report/img/image1.png)
+![alt text](/report/img/image2.png)
+
 ---
 
 ## 8. คำถามท้ายการทดลอง (Post-Lab Questions)
