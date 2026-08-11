@@ -22,7 +22,7 @@
 <img width="275" height="606" alt="image" src="https://github.com/user-attachments/assets/f30cbf91-ddc3-4877-b433-7e4b7308e269" />
 
 ---
-ผลการทดลอง
+output log
 ```
 I (27) boot: ESP-IDF v6.0.2 2nd stage bootloader
 I (27) boot: compile time Aug 10 2026 16:54:11
