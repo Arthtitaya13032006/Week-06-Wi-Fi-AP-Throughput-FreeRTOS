@@ -16,7 +16,7 @@
 2. สมาชิกตัวแปร `mac` ในโครงสร้าง `wifi_event_ap_staconnected_t` สามารถนำไปประยุกต์ใช้ทำระบบความปลอดภัยขั้นสูง (เช่น MAC Filtering) ได้อย่างไร?
 3. หากมี Client พยายามเชื่อมต่อเป็นเครื่องที่ 5 (เกินค่า `max_connection = 4`) จะเกิดเหตุการณ์ใดขึ้นในระดับสัญญาณวิทยุ?
 
-ตัวอย่าง output log อุปกรณ์ที่ 1
+output log อุปกรณ์ที่ 1
 
 ```
 rt.c:27
@@ -120,7 +120,7 @@ I (16040) esp_netif_lwip: DHCP server assigned IP to a client, IP is: 192.168.4.
 ```
 ---
 
-ตัวอย่าง output log อุปกรณ์ที่ 2  ของ  นายธนบดี บุญภมร 67030298
+output log อุปกรณ์ที่ 2  ของ  นายธนบดี บุญภมร 67030298
 
 ```
 I (208410) wifi:station: ec:2e:98:0b:8f:b9 join, AID=2, bgn, 40U
