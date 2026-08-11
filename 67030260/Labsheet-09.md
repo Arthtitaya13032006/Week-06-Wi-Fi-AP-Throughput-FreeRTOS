@@ -14,7 +14,7 @@
 | **2** |96:2E:48:7A:99:39 |-45 |Near |Passed (Valid) |
 
 ---
-## ผลการทดลอง
+output log
 
 ```
 I (27) boot: ESP-IDF v6.0.2 2nd stage bootloader
