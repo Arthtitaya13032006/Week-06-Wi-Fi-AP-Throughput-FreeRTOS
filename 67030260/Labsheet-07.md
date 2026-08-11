@@ -10,7 +10,7 @@
 
 ---
 
-ผลการทดลอง
+output log
 ```
 I (27) boot: ESP-IDF v6.0.2 2nd stage bootloader
 I (27) boot: compile time Aug 10 2026 16:38:00
